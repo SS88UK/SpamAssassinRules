@@ -153,6 +153,7 @@ score   URIBL_RHS_DOB           3.8
 score   URIBL_DBL_SPAM          5.0
 score   RCVD_IN_PSBL            5.0
 score   RP_MATCHES_RCVD         0.0
+score   RCVD_IN_BRBL_LASTEXT    5.0
 
 # Do a summary to give more weight to blacklists
 
